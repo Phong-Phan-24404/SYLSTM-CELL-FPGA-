@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../synthesis_lstm.srcs/sources_1/new" \
+"../../../../synthesis_lstm.srcs/sources_1/new/lstm_cell.sv" \
+"../../../../synthesis_lstm.srcs/sim_1/new/tb_lstm_cell.sv" \
+"../../../../synthesis_lstm.srcs/sim_1/new/tb_sigmoidtanh.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

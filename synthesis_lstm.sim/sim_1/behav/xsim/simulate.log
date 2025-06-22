@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+[FINISH] All results finalized.
+[FINISH] All results finalized.
+[FINISH] All results finalized.
+[FINISH] All results finalized.
+h_out (float):
+0: -0.013749
+1: 0.005665
+2: -0.011831
+3: -0.017948
+4: 0.011923
+5: -0.015833
+6: 0.030376
+7: -0.013162
+8: 0.029663
+9: -0.011236
+$finish called at time : 13945 ns : File "D:/portfolio/synthesis_lstm/synthesis_lstm.srcs/sim_1/new/tb_lstm_cell.sv" Line 66

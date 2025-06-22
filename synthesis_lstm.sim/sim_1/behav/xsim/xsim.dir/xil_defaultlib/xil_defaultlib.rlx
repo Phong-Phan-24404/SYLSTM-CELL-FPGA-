@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/portfolio/synthesis_lstm/synthesis_lstm.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,uvm,,,,,,
+D:/portfolio/synthesis_lstm/synthesis_lstm.srcs/sim_1/new/tb_lstm_cell.sv,1750582370,systemVerilog,,D:/portfolio/synthesis_lstm/synthesis_lstm.srcs/sim_1/new/tb_sigmoidtanh.sv,,decoder_LSTM_cell_tb,,uvm,../../../../synthesis_lstm.srcs/sources_1/new,,,,,
+D:/portfolio/synthesis_lstm/synthesis_lstm.srcs/sim_1/new/tb_sigmoidtanh.sv,1750585829,systemVerilog,,,,tb_sigmoidtanh,,uvm,../../../../synthesis_lstm.srcs/sources_1/new,,,,,
+D:/portfolio/synthesis_lstm/synthesis_lstm.srcs/sources_1/new/lstm_cell.sv,1750585089,systemVerilog,,D:/portfolio/synthesis_lstm/synthesis_lstm.srcs/sim_1/new/tb_lstm_cell.sv,D:/portfolio/synthesis_lstm/synthesis_lstm.srcs/sources_1/new/tanh_LUT.vh;D:/portfolio/synthesis_lstm/synthesis_lstm.srcs/sources_1/new/sigmoid_LUT.vh,calculate_ct;compute_gates;decoder_LSTM_cell;gate_computation;mat_vec_mul;multiplier;sigmoid;tanh,,uvm,../../../../synthesis_lstm.srcs/sources_1/new,,,,,
+D:/portfolio/synthesis_lstm/synthesis_lstm.srcs/sources_1/new/sigmoid_LUT.vh,1750584857,verilog,,,,,,,,,,,,
+D:/portfolio/synthesis_lstm/synthesis_lstm.srcs/sources_1/new/tanh_LUT.vh,1750584963,verilog,,,,,,,,,,,,
